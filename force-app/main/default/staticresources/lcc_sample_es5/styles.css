@@ -1,0 +1,13 @@
+.list {
+    position: absolute;
+    top: 40px;
+    bottom: 4px;
+    left: 0;
+    right: 0;
+    overflow: scroll;
+}
+
+.list-item {
+    padding: 4px;
+    border-bottom: solid 1px #DDDBDA;
+}

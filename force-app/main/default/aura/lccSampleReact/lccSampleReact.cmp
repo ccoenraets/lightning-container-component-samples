@@ -1,0 +1,11 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+	
+    <lightning:card title="LCC Sample React">
+
+        <lightning:container aura:id="jsApp" src="{!$Resource.lcc_sample_react + '/index.html'}"
+            onmessage="{!c.handleMessage}"
+            onerror="{!c.handleError}"/>
+
+    </lightning:card>    
+    
+</aura:component>
