@@ -12,7 +12,7 @@ Make sure you have the latest version of the Salesforce DX CLI before proceeding
 
 1. Clone the lcc-samples repository:
     ```
-    git clone https://github.com/ccoenraets/lcc-samples
+    git clone https://github.com/ccoenraets/lightning-container-component-samples
     cd lcc-samples
     ```
 
