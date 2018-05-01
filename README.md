@@ -12,8 +12,8 @@ Make sure you have the latest version of the Salesforce DX CLI before proceeding
 
 1. Clone the lcc-samples repository:
     ```
-    git clone https://github.com/ccoenraets/lcc-samples
-    cd lcc-samples
+    git clone https://github.com/ccoenraets/lightning-container-component-samples
+    cd lightning-container-component-samples
     ```
 
 1. Create a scratch org and provide it with an alias (for example: lcc):
