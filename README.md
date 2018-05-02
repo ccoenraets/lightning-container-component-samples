@@ -1,5 +1,9 @@
 # LCC Sample App
 
+## Deploy to SFDX
+
+You can test this app with just one click thanks to Deploy to SFDX:
+[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com)
 
 ## Installation Instructions
 
@@ -10,7 +14,7 @@ Make sure you have the latest version of the Salesforce DX CLI before proceeding
     sfdx force:auth:web:login -d -a *your_hub_org*
     ```
 
-1. Clone the lcc-samples repository:
+1. Clone the lightning-container-component-samples repository:
     ```
     git clone https://github.com/ccoenraets/lightning-container-component-samples
     cd lightning-container-component-samples
