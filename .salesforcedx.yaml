@@ -3,4 +3,4 @@ assign-permset: lcc
 run-apex-tests: false
 delete-scratch-org: false
 show-scratch-org-url: true
-open-path: one/one.app#/n/LCC_Samples
+open-path: one/one.app#/n/Basic_Messaging
