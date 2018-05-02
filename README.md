@@ -2,7 +2,7 @@
 
 ## Deploy to SFDX
 
-You can test this app with just one click thanks to Deploy to SFDX:
+You can test this app with just one click thanks to Deploy to SFDX:    
 [![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com)
 
 ## Installation Instructions
