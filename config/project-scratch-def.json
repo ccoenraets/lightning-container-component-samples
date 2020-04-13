@@ -2,7 +2,9 @@
     "orgName": "ccoenraets Company",
     "edition": "Developer",
     "hasSampleData": "true",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        }
     }
 }
